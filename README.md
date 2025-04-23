@@ -1,19 +1,19 @@
-# E Commerec Data Analysis
+# E Commerec Data Analytics
 
 ## Project Overview
 
-**Project Title**: Retail Sales Analysis 
+**Project Title**: End-to-End E-Commerce Data Analysis Using SQL
 
 **Database**: `e_commerce_db`
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
+Analyzed a real-world e-commerce dataset to uncover customer behavior, top-selling products, and sales trends using SQL. Extracted insights on purchase frequency, repeat customers, order cancellations, and revenue generation. Performed data cleaning, aggregations, and time-based analysis to support business decisions related to product performance and customer retention.
 
 ## Objectives
 
-1. **Set up a retail sales database**: Create and populate a e commerece database with the provided sales data.
+1. **Set up a retail sales database**: Create and populate a e commerece database with the provided dataset.
 2. **Data Cleaning**: Identify and remove any records with missing or null values.
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
-4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
+4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the dataset.
 
 ## Dataset Overview
   Key Columns:
